@@ -99,8 +99,8 @@ h6 {
       border: 1px solid var(--primary-200);
       height: auto;
       border-radius: .5rem;
-      font-family: "Source Serif Pro", serif;
-      font-style: italic;
+      font-family: "Space Grotesk", sans-serif;
+      font-style: regular;
       &:hover {
         border-color: var(--tertiary);
         .selected-name, 
@@ -160,7 +160,7 @@ h6 {
     color: var(--primary-medium);
     padding: 0.25em 0 0;
     height: 2rem;
-    font-family: "Source Serif Pro", serif;
+    font-family: "Space Grotesk", sans-serif;
     &.active,
     &:hover {
       color: var(--tertiary);
@@ -181,7 +181,7 @@ h6 {
   }
   .period-chooser-row {
     font-size: var(--font-0);
-    font-family: "Source Serif Pro", serif;
+    font-family: "Space Grotesk", sans-serif;
     font-weight: normal;
   }
 }
@@ -233,7 +233,7 @@ tbody {
     }
   }
   .link-top-line {
-    font-family: "Source Serif Pro", serif;
+    font-family: "Space Grotesk", sans-serif;
   }
   .topic-excerpt {
     font-size: var(--font-down-1);

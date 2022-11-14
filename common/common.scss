@@ -245,7 +245,7 @@ tbody {
 // Categories and Tags | Box style
 .badge-wrapper.box {
   padding: 1px 6px;
-  font-family: 'Open Sans', -apple-system, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+  font-family: 'Space Grotesk', sans-serif;
   span.badge-category-bg {
     border-radius: .2rem;
   }
@@ -343,7 +343,7 @@ aside.onebox {
     .latest-topic-list-item {
       border-bottom: 1px solid var(--primary-100);
       .main-link a.title {
-        font-family: "Source Serif Pro", serif;
+        font-family: 'Space Grotesk', sans-serif;
       }
     }
   }
